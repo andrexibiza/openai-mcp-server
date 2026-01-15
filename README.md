@@ -1,6 +1,6 @@
 # OpenAI MCP Server
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-412991.svg)](https://platform.openai.com/)
 
@@ -389,26 +389,45 @@ Be aware of OpenAI's rate limits and pricing:
 - Verify base64 encoding is correct if using encoded images
 - Make sure image URLs are accessible
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
-MIT License - see LICENSE file for details
+This software is proprietary and confidential.
+
+**Copyright © 2025-2026 Axl Ibiza, MBA. All Rights Reserved.**
+
+This software is licensed for authorized use only. Unauthorized copying, distribution, modification, or use of this software is strictly prohibited and may result in severe civil and criminal penalties.
+
+**Terms of Use:**
+- Licensed for internal business purposes only
+- No redistribution or commercial use without written permission
+- No reverse engineering, decompilation, or derivative works
+- All intellectual property rights reserved
+
+For licensing inquiries, enterprise support, or custom development:
+**Contact:** axl@poke.com
+
+See the [LICENSE](LICENSE) file for complete terms and conditions.
+
+---
 
 ## Support
 
+- **Email Support:** axl@poke.com
 - OpenAI Documentation: https://platform.openai.com/docs
 - MCP Documentation: https://modelcontextprotocol.io
-- Issues: https://github.com/andrexibiza/openai-mcp-server/issues
+
+**Note:** This is proprietary software. For bug reports, feature requests, or technical support, please contact the author directly.
+
+---
 
 ## Acknowledgments
 
 - Built with the [Model Context Protocol SDK](https://github.com/modelcontextprotocol)
 - Powered by [OpenAI API](https://platform.openai.com/)
-- Created by Axl Ibiza, MBA
+- Developed by Axl Ibiza, MBA
 
 ---
 
-**Note**: This is an unofficial community project and is not affiliated with or endorsed by OpenAI.
+**Copyright © 2025-2026 Axl Ibiza, MBA. All Rights Reserved.**
+
+**Note**: This is an unofficial project and is not affiliated with or endorsed by OpenAI.
